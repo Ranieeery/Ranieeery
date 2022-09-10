@@ -1,7 +1,7 @@
 <h2 style="display: inline_block">Hello World 👋</h2>
 🔌 | Técnico em eletroeletrônica <br>
 💻 | Estudante de Ciências da Computação <br>
-📚 | Entusiasta em hacking e cibersegurança <br>
+📚 | Estudando Java<br>
 
 <h2 style="display: inline_block"></h2>
 
