@@ -1,8 +1,4 @@
-<h2 style="display: inline_block">Hello World 👋</h2>
-🔌 | Técnico em eletroeletrônica <br>
-💻 | Estudante de Ciências da Computação <br>
-📚 | Estudando Java<br>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=250&pause=1000&color=9E00C0&background=661EFF00&center=true&vCenter=true&width=550&height=30&lines=Iniciando.;Iniciando..;Iniciando...;%E2%80%8E+---+..+%E2%80%8E+%E2%80%8E+%E2%80%8E++--.+.-+-...+..;Hello+World!;Hello+World!+Seja+bem-vindo(a);Hello+World!+Seja+bem-vindo(a);Eu+me+chamo+Raniery+Meireles+Goulart;Eu+me+chamo+Raniery+Meireles+Goulart;Eu+me+chamo+Raniery+Meireles+Goulart;+%E2%80%8E--.+.-+-...+..+--..--++%E2%80%8E+%E2%80%8E+...+.-+.-..+...-+.;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Finalizando.;Finalizando..;Finalizando...;.+.++%3A+-++_+.%3A)](https://git.io/typing-svg)
 <h2 style="display: inline_block"></h2>
 
 <div align="center">
