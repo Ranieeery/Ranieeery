@@ -3,7 +3,7 @@
 <img align='right' src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/eevee_pixelart.gif" width="300"></h2>
 </br>
 
-- 📚 I'm currently learning `Java`, `JUnit`, `PostgreSQL`, `Maven`, `Spring` and `API REST`
+- 📚 I'm currently learning `Java`, `JUnit`, `PostgreSQL`, `Maven` and `Spring` 
 - 👨🏻‍💻 I dont know why, but 
 </br>
 
