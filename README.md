@@ -1,6 +1,6 @@
 <!--Introdution-->
 <h2>Hi, I'm Raniery</h2>
-<img align='right' src="http://pa1.narvii.com/6306/247c303bbee4fd186d4961a933729ede87b01383_00.gif" width="300"></h2>
+<img align='right' src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/eevee_pixelart.gif" width="300"></h2>
 </br>
 
 - 📚 I'm currently learning `Java`, `JUnit`, `PostgreSQL`, `Maven`, `Spring` and `API REST`
@@ -79,18 +79,36 @@
 <details> 
   <summary> 🚀 Current projects </summary>
   <br/>
-  
+  under construction
   <br/>
 </details>
 
 <div align="left">
 <img height="100em" src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=9e00c0&bar_color_cover=false"/>
-</div>
+<div/>
+</br>
+
+
+<div align="center"><h2>✨ Thanks for your attention ✨</h2></div>
+<p align="center">
+<a href="https://www.behance.net/gallery/36569841/Coffee-in-rain-gif-animation" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/VERYCOOLGIF_byKirokaze.gif" alt="Rain gif" height="70%" width="70%" /></a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <!--![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=ranieeery-visitor-badge-reloaded&color=9E00C0&lcolor=&style=for-the-badge&logo=Github&logoColor=white&custom=CNT%20Views&text=&color=ffffff&cache=on)
-
 <!--Gif typing->
-
 <h2><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=9E00C0&width=435&height=35&lines=Hi+devs%2C+im+dev+to" width="600">
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&duration=250&pause=1000&color=9E00C0&background=661EFF00&vCenter=true&width=550&height=30&lines=Iniciando.;Iniciando..;Iniciando...;%E2%80%8E+---+..+%E2%80%8E+%E2%80%8E+%E2%80%8E++--.+.-+-...+..;Hello+World!;Hello+World!+Seja+bem-vindo(a);Hello+World!+Seja+bem-vindo(a);Eu+me+chamo+Raniery+Meireles+Goulart;Eu+me+chamo+Raniery+Meireles+Goulart;Eu+me+chamo+Raniery+Meireles+Goulart;+%E2%80%8E--.+.-+-...+..+--..--++%E2%80%8E+%E2%80%8E+...+.-+.-..+...-+.;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Atualmente+estou+cursando+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Finalizando.;Finalizando..;Finalizando...;.+.++%3A+-++_+.%3A)](https://git.io/typing-svg)
