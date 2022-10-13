@@ -3,8 +3,9 @@
 <img align='right' src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/eevee_pixelart.gif" width="300"></h2>
 </br>
 
-- 📚 I'm currently learning `Java`, `JUnit`, `PostgreSQL`, `Maven` and `Spring` 
-- 👨🏻‍💻 I dont know why, but 
+- 📚 I'm currently learning `Java`, `HTML`, `CSS` and `JavaScript`
+- 👨🏻‍💻 I dont know why, but I'm very interested in Ruby
+- 🕹 In my free time I like to play games, read and listen music
 </br>
 
 <!--Github stats-->
@@ -31,9 +32,6 @@
    <h3>Databases and hosts</h3>
   
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-   ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-   ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-   ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
    </br>
    <h3>Frameworks and libraries</h3>
   
@@ -79,7 +77,7 @@
 <details> 
   <summary> 🚀 Current projects </summary>
   <br/>
-  under construction
+  <a href="https://github.com/Ranieeery/Game-indev-Java"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ranieeery&repo=Game-indev-Java&theme=react&bg_color=191B25&title_color=9E00C0&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
   <br/>
 </details>
 
@@ -91,7 +89,7 @@
 
 <div align="center"><h2>✨ Thanks for your attention ✨</h2></div>
 <p align="center">
-<a href="https://www.behance.net/gallery/36569841/Coffee-in-rain-gif-animation" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/VERYCOOLGIF_byKirokaze.gif" alt="Rain gif" height="70%" width="70%" /></a>
+<a href="https://www.behance.net/gallery/36569841/Coffee-in-rain-gif-animation" target="blank"><img align="center" src="https://raw.githubusercontent.com/Ranieeery/Ranieeery/main/VERYCOOLGIF_byKirokaze.gif" alt="Rain gif" height="75%" width="75%" /></a>
 </p>
 
 
