@@ -10,7 +10,7 @@
 
 <!--Github stats-->
 <div align="left">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=10&text_color=ffffff&theme=radical"/></br>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=10&text_color=ffffff&theme=radical&hide=jupyter%20notebook"/></br>
 </div>
 </br>
 
