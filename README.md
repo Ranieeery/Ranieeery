@@ -13,7 +13,7 @@
 
 <!--Github stats-->
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=radical&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border='false'"
     align='justify'
     height='190px' width='390px'
 />
@@ -21,18 +21,22 @@
 <!--Toggle lists-->
 <details class='tecnologies'>
     <summary> ⚜ Language and tools </summary> 
-    <h3>Languages</h3>
-    </br>
-    <h3>Databases and hosts</h3>
-    </br>
-    <h3>Frameworks and libraries</h3>
-    </br>
-    <h3>IDEs/Code editors</h3>
-    </br>
+        <h3>Languages</h3>
+    
+   ![C++](https://custom-icon-badges.demolab.com/badge/C++-323330.svg?logo=cplusplus&logoColor=white&style=for-the-badge&labelColor=2E86C1)
+   ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-323330.svg?logo=css3&logoColor=white&style=for-the-badge&labelColor=5DADE2)
+   ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-323330.svg?logo=html5&logoColor=white&style=for-the-badge&labelColor=FF6100)
+   ![Java](https://custom-icon-badges.demolab.com/badge/Java-323330.svg?logo=java&logoColor=white&style=for-the-badge&labelColor=502810)
+   ![JS](https://custom-icon-badges.demolab.com/badge/JavaScript-323330.svg?logo=javascript&logoColor=white&style=for-the-badge&labelColor=yellow)
+   ![Python](https://custom-icon-badges.demolab.com/badge/Python-323330.svg?logo=python&logoColor=white&style=for-the-badge&labelColor=128FA5)
+    <h3>Databases and frameworks</h3>
+   ![Arduino](https://custom-icon-badges.demolab.com/badge/Arduino-323330.svg?logo=arduino&logoColor=white&style=for-the-badge&labelColor=19A869) 
+   ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-323330.svg?logo=aws&logoColor=white&style=for-the-badge&labelColor=FF9700)  
     <h3>Softwares and tools</h3>
-    </br>
-    <h3>Operational System</h3>
-    </br>
+   ![PS](https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-323330.svg?logo=adobephotoshop&logoColor=white&style=for-the-badge&labelColor=010C87)
+   ![Git](https://custom-icon-badges.demolab.com/badge/Git-323330.svg?logo=git&logoColor=white&style=for-the-badge&labelColor=orange)
+   ![Github](https://custom-icon-badges.demolab.com/badge/GitHub-323330.svg?logo=github&logoColor=white&style=for-the-badge&labelColor=gray)
+    <br>
 </details>
 
 <details class='more github stats'>
@@ -40,11 +44,11 @@
     <br/>
     <div align='center'>
     <img 
-    src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=radical&include_all_commits=true&count_private=true" 
+    src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&include_all_commits=true&count_private=true&hide_border='false'" 
     alt='Github profile stats'
     height='160em'/></a>
     <img 
-    src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=radical&date_format=j%20M%5B%20Y%5D" 
+    src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ff8600&fire=ff8600&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" 
     alt='Github streak stats'
     height='160em'/>
     </a>
@@ -52,14 +56,11 @@
 </details>
 
 <details class='projects'>
-    <summary> 🚀 Current projects </summary>
-    <br/>
-    <a 
-    href="https://github.com/Ranieeery/Game-indev-Java">
-    <img 
-    alt='github-readme-streak-stats'
-    src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Ranieeery&repo=Game-indev-Java&theme=react&bg_color=191B25&title_color=9E00C0&hide_border=true&icon_color=F8D866&show_icons=false" 
-    width='278px' ></a>
+    <summary> 🚀 Current projects </summary><br>
+        <a class="pokedex"
+        href="https://github.com/Ranieeery/pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=pokedex&theme=react&border_radius=4.5&hide_border='false'" width="278"/></a>
+        <a class="game"
+        href="https://github.com/Ranieeery/Game-indev-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=Game-indev-Java&theme=react&border_radius=4.5&hide_border='false'" width="278"/></a>
     <br/>
 </details>
 
@@ -68,7 +69,7 @@
     align="left"><img
     alt='Spotify stats'
     height='100' 
-    src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=9e00c0&bar_color_cover=false"/>
+    src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"/>
 <div/></br>
 
 <div class='most used languages'
@@ -81,3 +82,4 @@
     height="75%" width="75%" 
 /></a>
 </div>
+
