@@ -13,7 +13,7 @@
 
 <!--Github stats-->
 <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=10&text_color=ffffff&theme=radical&hide=jupyter%20notebook"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=radical&hide=jupyter%20notebook"
     align='justify'
     height='190px' width='390px'
 />
@@ -63,6 +63,7 @@
     <br/>
 </details>
 
+<!--idk how to name this-->
 <div class='spotify'
     align="left"><img
     alt='Spotify stats'
