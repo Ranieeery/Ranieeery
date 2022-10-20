@@ -57,12 +57,29 @@
 
 <details class='projects'>
     <summary> 🚀 Current projects </summary><br>
-        <a class="pokedex"
-        href="https://github.com/Ranieeery/pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=pokedex&theme=react&border_radius=4.5&hide_border='false'" width="278"/></a>
-        <a class="game"
-        href="https://github.com/Ranieeery/Game-indev-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=Game-indev-Java&theme=react&border_radius=4.5&hide_border='false'" width="278"/></a>
+    <div align='center'>
+        <a class='pokedex'
+        href="https://github.com/Ranieeery/pokedex"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=pokedex&theme=react&border_radius=4.5&hide_border='false'" width='278px'/></a>
+        <a class='game'
+        href="https://github.com/Ranieeery/Game-indev-Java"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ranieeery&repo=Game-indev-Java&theme=react&border_radius=4.5&hide_border='false'" width='278px'/></div></a>
     <br/>
 </details>
+
+## 
+<div class='media' align='center'>
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=1750&pause=1200&color=00D7F6&background=FF000000&center=true&vCenter=true&height=40&lines=More+social+media;Follow+me" alt="Typing SVG"/>    </a> <br>
+    <a href="https://www.linkedin.com/in/ranierygoulart/">
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-288AB8.svg?logo=linkedin&logoColor=white&style=for-the-badge&labelColor=2EA6DE"/>
+    </a>
+    <a href="https://www.instagram.com/ranierygoulart/">
+        <img src="https://custom-icon-badges.demolab.com/badge/instagram-C04BF7.svg?logo=instagram&logoColor=white&style=for-the-badge&labelColor=D680FF"/>
+    </a>
+    <a href="LINKHERE">
+        <img src="https://custom-icon-badges.demolab.com/badge/spotify-225805.svg?logo=spotify&logoColor=white&style=for-the-badge&labelColor=358A08"/>
+    </a>    
+    
+</div>
 
 <!--idk how to name this-->
 <div class='spotify'
@@ -72,7 +89,7 @@
     src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"/>
 <div/></br>
 
-<div class='most used languages'
+<div class='byebye'
     align="center"><h2>
     ✨ Thanks for your attention ✨</h2><a
     href="https://www.behance.net/gallery/36569841/Coffee-in-rain-gif-animation" target="blank"><img 
