@@ -12,11 +12,13 @@
 - 🕹 In my free time I like to play games, read and listen music
 
 <!--Github stats-->
-<img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border='false'"
-    align='justify'
-    height='190px' width='390px'
-/>
+<a href="#">
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border='false'"
+        align='justify'
+        height='190px' width='390px'
+    />
+</a>
 
 <!--Toggle lists-->
 <details class='tecnologies'>
@@ -43,15 +45,14 @@
     <summary> 💻 More Github stats</summary>
     <br/>
     <div align='center'>
-    <img 
+    <a href="#"> <img 
     src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&include_all_commits=true&count_private=true&hide_border='false'" 
     alt='Github profile stats'
-    height='160em'/></a>
-    <img 
+    height='160em'/> </a>
+    <a href="#"> <img 
     src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ff8600&fire=ff8600&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" 
     alt='Github streak stats'
-    height='160em'/>
-    </a>
+    height='160em'/> </a>
     </div>
 </details>
 
@@ -83,7 +84,7 @@
 
 <!--idk how to name this-->
 <div class='spotify'
-    align="left"><img
+    align="center"><img
     alt='Spotify stats'
     height='100' 
     src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"/>
