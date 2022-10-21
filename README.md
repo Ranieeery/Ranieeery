@@ -24,7 +24,7 @@
 <details class='tecnologies'>
     <summary> ⚜ Language and tools </summary> 
         <h3>Languages</h3>
-    
+        
    ![C++](https://custom-icon-badges.demolab.com/badge/C++-323330.svg?logo=cplusplus&logoColor=white&style=for-the-badge&labelColor=2E86C1)
    ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-323330.svg?logo=css3&logoColor=white&style=for-the-badge&labelColor=5DADE2)
    ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-323330.svg?logo=html5&logoColor=white&style=for-the-badge&labelColor=FF6100)
@@ -78,17 +78,16 @@
     </a>
     <a href="https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta">
         <img src="https://custom-icon-badges.demolab.com/badge/spotify-225805.svg?logo=spotify&logoColor=white&style=for-the-badge&labelColor=358A08"/>
-    </a>    
-    
+    </a>
 </div>
 
 <!--idk how to name this-->
 <div class='spotify'
-    align="center"><img
+    align="center"> <a href="#"> <img
     alt='Spotify stats'
     height='100' 
     src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"/>
-<div/></br>
+</a> <div/> </br>
 
 <div class='byebye'
     align="center"><h2>
