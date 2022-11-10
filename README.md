@@ -25,20 +25,30 @@
     <summary> ⚜ Language and tools </summary> 
         <h3>Languages</h3>
         
-   ![C++](https://custom-icon-badges.demolab.com/badge/C++-323330.svg?logo=cplusplus&logoColor=white&style=for-the-badge&labelColor=2E86C1)
-   ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-323330.svg?logo=css3&logoColor=white&style=for-the-badge&labelColor=5DADE2)
-   ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-323330.svg?logo=html5&logoColor=white&style=for-the-badge&labelColor=FF6100)
+   ![C++](https://custom-icon-badges.demolab.com/badge/C++-323330.svg?logo=cplusplus&logoColor=white&style=for-the-badge&labelColor=00599C)
+   ![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-323330.svg?logo=css3&logoColor=white&style=for-the-badge&labelColor=302683)
+   ![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-323330.svg?logo=html5&logoColor=white&style=for-the-badge&labelColor=E34F26)
    ![Java](https://custom-icon-badges.demolab.com/badge/Java-323330.svg?logo=java&logoColor=white&style=for-the-badge&labelColor=502810)
    ![JS](https://custom-icon-badges.demolab.com/badge/JavaScript-323330.svg?logo=javascript&logoColor=white&style=for-the-badge&labelColor=yellow)
-   ![Python](https://custom-icon-badges.demolab.com/badge/Python-323330.svg?logo=python&logoColor=white&style=for-the-badge&labelColor=128FA5)
+   ![Python](https://custom-icon-badges.demolab.com/badge/Python-323330.svg?logo=python&logoColor=white&style=for-the-badge&labelColor=3776AB)
     <h3>Databases and frameworks</h3>
-   ![Arduino](https://custom-icon-badges.demolab.com/badge/Arduino-323330.svg?logo=arduino&logoColor=white&style=for-the-badge&labelColor=19A869) 
-   ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-323330.svg?logo=aws&logoColor=white&style=for-the-badge&labelColor=FF9700)  
+   ![Arduino](https://custom-icon-badges.demolab.com/badge/Arduino-323330.svg?logo=arduino&logoColor=white&style=for-the-badge&labelColor=00979D) 
+   ![AWS](https://custom-icon-badges.demolab.com/badge/AWS-323330.svg?logo=aws&logoColor=white&style=for-the-badge&labelColor=232F3E)
+   ![Gradle](https://custom-icon-badges.demolab.com/badge/Gradle-323330.svg?logo=gradle&logoColor=white&style=for-the-badge&labelColor=02303A)
+   ![JUnit5](https://custom-icon-badges.demolab.com/badge/JUnit-323330.svg?logo=junit5&logoColor=white&style=for-the-badge&labelColor=FF6A63)
+   ![Maven](https://custom-icon-badges.demolab.com/badge/Maven-323330.svg?logo=apachemaven&logoColor=white&style=for-the-badge&labelColor=C71A36) 
+   ![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-323330.svg?logo=nodejs&logoColor=white&style=for-the-badge&labelColor=339933)
+   ![PostgreSQL](https://custom-icon-badges.demolab.com/badge/PostgreSQL-323330.svg?logo=postgresql&logoColor=white&style=for-the-badge&labelColor=4169E1) 
+   ![Quasar](https://custom-icon-badges.demolab.com/badge/Quasar-323330.svg?logo=quasar&logoColor=white&style=for-the-badge&labelColor=1976D2)
+   ![Vue.js](https://custom-icon-badges.demolab.com/badge/vue.js-323330.svg?logo=Vue.js&logoColor=white&style=for-the-badge&labelColor=288A51)
     <h3>Softwares and tools</h3>
    ![PS](https://custom-icon-badges.demolab.com/badge/Adobe%20Photoshop-323330.svg?logo=adobephotoshop&logoColor=white&style=for-the-badge&labelColor=010C87)
    ![Git](https://custom-icon-badges.demolab.com/badge/Git-323330.svg?logo=git&logoColor=white&style=for-the-badge&labelColor=orange)
    ![Github](https://custom-icon-badges.demolab.com/badge/GitHub-323330.svg?logo=github&logoColor=white&style=for-the-badge&labelColor=gray)
+   ![Excel](https://custom-icon-badges.demolab.com/badge/Microsoft%20Excel-323330.svg?logo=microsoftexcel&logoColor=white&style=for-the-badge&labelColor=217346)
+   ![VBox](https://custom-icon-badges.demolab.com/badge/Virtual%20box-323330.svg?logo=virtualbox&logoColor=white&style=for-the-badge&labelColor=183A61)
     <br>
+    <!--https://simpleicons.org/-->
 </details>
 
 <details class='more github stats'>
