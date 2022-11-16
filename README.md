@@ -8,7 +8,7 @@
 />
 <!--About me-->
 - 📚 I'm currently learning `Java`, `HTML`, `CSS` and `JavaScript`
-- 👨🏻‍💻 I dont know why, but I'm very interested in Ruby
+- 👨🏻‍💻 I dont know why, but I'm very interested in `Ruby`
 - 🕹 In my free time I like to play games, read and listen music
 
 <!--Github stats-->
