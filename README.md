@@ -7,7 +7,9 @@ I'm a **Fullstack Web Developer** who likes to work with Java/JavaScript and a c
 <div align="center">
     <a href="#">
         <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border='false'" alt="Most used languages in my repos"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=6&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons" 
+        alt="Most used languages in my repos"
+        height="160em"/>
     </a>
     <br>
     <small>Languages used in my repos - I need to code more in JS 🤓</small>
@@ -20,19 +22,35 @@ I'm currently learning Spring, React and Node.js but i'm very interested in Rust
 ## 📚 Skills 
 * ### Languages:
   <p href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,py" />
+     <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,py" alt="My languages: Java, HTML5, CSS3, JavaScript, Cpp and Python."/>
   </p>
 
 * ### Frameworks and tools:
   <p href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=arduino,git,github,gradle,maven,nodejs,postgres,react,spring"/>
+     <img src="https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,linux,maven,nodejs,postgres,react,spring,vercel&perline=6" alt="My frameworks and tools: Arduino, Docker (a little little little bit), Git, Github, Gradle, GNU/Linux (Ubuntu and Pop!_OS), Maven, Node.js, Postgres, React, Spring and Vercel"/>
   </p>
 
 * ### Softwares and services:
   <p href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=aws,idea,neovim,ps,powershell,vscode"/>
+     <img src="https://skillicons.dev/icons?i=aws,idea,neovim,ps,powershell,vscode" alt="My softwares and services: AWS Cloud, Intellij IDEA, Neovim, Adobe Photoshop, Powershell (In Windows Terminal to use Neovim) and VS Code"/>
   </p>
 
+<!--More stats-->
+## More Github Stats
+<div align='center'>
+    <a href="#"> 
+        <img src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+        alt="Github profile stats"
+        height="160em"/></a>
+        <!--https://github.com/anuraghazra/github-readme-stats-->
+    <a href="#">
+        <img src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" 
+        alt="Github streak stats"
+        height="160em"/></a>
+        <!--https://github.com/DenverCoder1/github-readme-streak-stats-->
+</div>
+
+---
 
 
 
@@ -40,29 +58,6 @@ I'm currently learning Spring, React and Node.js but i'm very interested in Rust
 
 
 
-
-
-
-
-
-
-
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br>
-<details class='more github stats'>
-    <summary> 💻 More Github stats</summary>
-    <br/>
-    <div align='center'>
-    <a href="#"> <img 
-    src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&include_all_commits=true&count_private=true&hide_border='false'" 
-    alt='Github profile stats'
-    height='160em'/> </a>
-    <a href="#"> <img 
-    src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ff8600&fire=ff8600&sideNums=ffffff&currStreakNum=ffffff&hide_border=true" 
-    alt='Github streak stats'
-    height='160em'/> </a>
-    </div>
-</details>
 
 <div class='media' align='center'>
     <a href="https://git.io/typing-svg">
