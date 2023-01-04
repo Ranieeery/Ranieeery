@@ -55,9 +55,12 @@ as soon as I have the knowledge to be able to do so.
 
 <p href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,linux,maven,nodejs,postgres,react,spring,vercel&perline=6"
-    alt="My frameworks and tools: Arduino, Docker (a little little little bit), Git, Github, Gradle, GNU/Linux (Ubuntu and Pop!_OS), Maven, Node.js, Postgres, React, Spring and Vercel"/>
-    </p>
+    src="https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,linux"
+    alt="My frameworks and tools: Arduino, Docker (a little little little bit), Git, Github, Gradle, GNU/Linux (Ubuntu and Pop!_OS)."/>
+  <img
+    src="https://skillicons.dev/icons?i=maven,nodejs,postgres,react,spring,vercel"
+    alt="Maven, Node.js, Postgres, React, Spring and Vercel"/>
+</p>
 
   - ### Softwares and services:
 <p href="https://skillicons.dev">
