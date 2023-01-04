@@ -17,11 +17,21 @@ I'm a **Fullstack Web Developer** who likes to work with Java/JavaScript and a c
 I'm currently learning Spring, React and Node.js but i'm very interested in Rust and Ruby but I do not intend to study so soon in order not to be ~~more~~ overloaded. I want to contribute to open source as soon as I have the knowledge to be able to do so.
 
 <!--Skills-->
-## Skills 
-### Languages
-### Databases and frameworks
+## 📚 Skills 
+* ### Languages:
+  <p href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=java,html,css,js,cpp,py" />
+  </p>
 
-### Softwares and tools
+* ### Frameworks and tools:
+  <p href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=arduino,git,github,gradle,maven,nodejs,postgres,react,spring"/>
+  </p>
+
+* ### Softwares and services:
+  <p href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=aws,idea,neovim,ps,powershell,vscode"/>
+  </p>
 
 
 
