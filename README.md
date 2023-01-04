@@ -89,7 +89,7 @@ as soon as I have the knowledge to be able to do so.
 <div align="center">
 
 ### ✨ Thanks for your attention ✨
-  <a href="https://www.behance.net/gallery/36569841/Coffee-in-rain-gif-animation">
+  <a href="#">
     <img
       src="https://spotify-github-profile.vercel.app/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&cover_image=true&theme=natemoo-re&bar_color=00d7f6&bar_color_cover=false"
       alt="Spotify now playing" height="100em"/>
