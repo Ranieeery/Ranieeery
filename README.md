@@ -8,7 +8,7 @@ I'm a **Fullstack Web Developer** who likes to work with `Java` and `JavaScript`
 <div align="center">
   <a href="#">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=6&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
+      src="https://github-readme-stats-dusky-delta.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=6&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
       alt="Most used languages in my repos" height="160em"/>
   </a>
   <br>
@@ -75,7 +75,7 @@ as soon as I have the knowledge to be able to do so.
 <div align='center'>
   <a href="#">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      src="https://github-readme-stats-dusky-delta.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
       alt="Github profile stats" height="160em" /></a>
   <!--https://github.com/anuraghazra/github-readme-stats-->
   <a href="#">
