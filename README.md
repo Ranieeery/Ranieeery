@@ -45,28 +45,28 @@ as soon as I have the knowledge to be able to do so.
 
 - ### Languages:
 
-<p href="https://skillicons.dev">
+<a href="https://skillicons.dev">
    <img 
-    src="https://skillicons.dev/icons?i=java,html,css,js,cpp,py"
-    alt="My languages: Java, HTML5, CSS3, JavaScript, Cpp and Python."/>
-</p>
+    src="https://skillicons.dev/icons?i=java,html,css,js,ts,py,cpp"
+    alt="My languages: Java, HTML5, CSS3, JavaScript, TypeScript, Python and Cpp"/>
+</a>
 
 - ### Frameworks and tools:
 
-<p href="https://skillicons.dev">
+<a href="https://skillicons.dev">
   <img
-    src="https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,linux"
-    alt="My frameworks and tools: Arduino, Docker (a little little little bit), Git, Github, Gradle, GNU/Linux (Ubuntu and Pop!_OS)."/>
+    src="https://skillicons.dev/icons?i=arduino,docker,git,github,gradle,linux,maven"
+    alt="My frameworks and tools: Arduino, Docker (a little little little bit), Git, Github, Gradle, GNU/Linux (Ubuntu and Pop!_OS) and Maven"/>
   <img
-    src="https://skillicons.dev/icons?i=maven,nodejs,postgres,react,spring,vercel"
-    alt="Maven, Node.js, Postgres, React, Spring and Vercel"/>
-</p>
+    src="https://skillicons.dev/icons?i=nodejs,postgres,prisma,react,spring,tailwind,vite"
+    alt="Node.js, Postgres, React, Spring, Tailwind CSS and Vite"/>
+</a>
 
-  - ### Softwares and services:
-<p href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,idea,neovim,ps,powershell,vscode"
-    alt="My softwares and services: AWS Cloud, Intellij IDEA, Neovim, Adobe Photoshop, Powershell (In Windows Terminal to use Neovim) and VS Code"/>
-</p>
+- ### Softwares and services:
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=aws,idea,neovim,ps,powershell,vercel,vscode"
+    alt="My softwares and services: AWS Cloud, Intellij IDEA, Neovim, Adobe Photoshop, Powershell (In Windows Terminal to use Neovim), Vercel and VS Code"/>
+</a>
 
 <!--More stats-->
 
