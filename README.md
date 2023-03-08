@@ -16,7 +16,7 @@ I'm a **Fullstack Web Developer** who likes to work with `Java` and `JavaScript`
 </div>
 <br>
 
-I'm currently learning `Spring`, `Angular` and `Node.js` but I'm very interested in `React`, `Rust` and `Ruby` but I do
+I'm currently learning `Spring`, `React` and `Node.js` but I'm very interested in `Angular`, `Rust` and `Ruby` but I do
 not intend to study so soon in order not to be <small>~~more~~</small> overloaded. I want to contribute to open source
 as soon as I have the knowledge to be able to do so.
 
