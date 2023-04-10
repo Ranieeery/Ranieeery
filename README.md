@@ -12,7 +12,7 @@ I'm a **Fullstack Web Developer** who likes to work with `Java` and `JavaScript`
       alt="Most used languages in my repos" height="160em"/>
   </a>
   <br>
-  <small>I need to code more in JS 🤓</small>
+  <sup>I need to code more in JS 🤓</sup>
 </div>
 <br>
 
