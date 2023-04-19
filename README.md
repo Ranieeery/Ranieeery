@@ -9,7 +9,7 @@ I'm a **Fullstack Web Developer** who likes to work with `Java` and `JavaScript`
   <a href="#">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide=jupyter%20notebook&hide_border=true&show_icons"
-      alt="Most used languages in my repos" height="160em"/>
+      alt="Most used languages in my repos"/>
   </a>
   <br>
   <sup>I need to code more in JS 🤓</sup>
