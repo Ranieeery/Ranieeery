@@ -78,15 +78,12 @@ rewritten from scratch with `NextJS`.
 <div align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=ranieeery&
-      show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
       alt="Github profile stats"
       height="160em"/></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&
-      theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&
-      sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
       alt="Github streak stats"
       height="160em"/></a>
 </div>
