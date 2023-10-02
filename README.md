@@ -1,9 +1,7 @@
 # [![My Skills](./header.png)](https://github.com/khalby786/REHeader)
 
 Me chamo Raniery, tenho 20 anos e sou estudante de Ciência da Computação. Também
-sou formado em Técnico em Eletroeletrônica pelo CEFET-MG. Atualmente venho estudando
-`Java`, `Spring` e `Hibernate` porém também tenho conhecimento em `JavaScript`,
-`TypeScript` e `NodeJS`. Tenho bastante interesse em aprender profundamente sobre
+sou formado em Técnico em Eletroeletrônica pelo CEFET-MG. Atualmente estou atuando como estagiário de desenvolvimento na `Empresa1` usando tecnologias como `JavaScript`, `Angular`, `Java`, `Hibernate`, `Wildfly`, etc. Tenho bastante interesse em aprender profundamente sobre
 `Ruby`, `Golang` e `Scala`.
 
 Pretendo contribuir com projetos open-source e também criar alguns projetos pessoais
@@ -48,13 +46,14 @@ reescrito do zero com `NextJS`.
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 
 - ### Ferramentas
-
+[![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/reference)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![Bootstrap](https://skillicons.dev/icons?i=bootstrap)](https://getbootstrap.com/)
 [![Discord Dev](https://skillicons.dev/icons?i=bots)](https://discord.com/developers/docs/intro)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
-[![.NET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![dotNET](https://skillicons.dev/icons?i=dotnet)](https://dotnet.microsoft.com/en-us/)
+[![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Gradle](https://skillicons.dev/icons?i=gradle)](https://gradle.org/)
 [![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
