@@ -19,11 +19,11 @@ reescrito do zero com `NextJS`.
   </a>
   <h3> 📫 Contato </h3>
 
-  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-7E4798?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:raniery2003@hotmail.com)
+  [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-448424?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:raniery2003@hotmail.com)
   [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/vacuumm/mycompany/)
   [![Instagram](https://custom-icon-badges.demolab.com/badge/-Instagram-E4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ranierygoulart/)
 
-  [English ver.](./READMEen.md)
+  <!--[English ver.](./READMEen.md)-->
 </div>
 
 ## 📚 Skills
