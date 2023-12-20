@@ -74,11 +74,4 @@ além de me aprofundar em `NodeJS` e `Spring`.
 
   [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta?si=6f5b8c18e9a34553)
   [![LastFM](https://custom-icon-badges.demolab.com/badge/-Lastfm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/Raniery_)
-  
-  <a href="https://github.com/DenverCoder1/minimalistic-wallpaper-collection">
-    <img
-      src="https://minimalistic-wallpaper.demolab.com/?random"
-      alt="Wallpaper aleatório"
-      height="350em"/>
-  </a>
 </div>
