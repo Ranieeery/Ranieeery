@@ -70,8 +70,7 @@ além de me aprofundar em `NodeJS` e `Spring`.
 
   <a href="https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta?si=c7127d3e4d914957">
     <img
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&show_offline=true
-      cover_image=true&theme=novatorem&bar_color=00d7f6"
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&show_offline=true&cover_image=true&theme=novatorem&bar_color=00d7f6"
       alt="Atividade atual no Spotify"
       height="100em"/>
   </a>
