@@ -79,13 +79,3 @@ além de me aprofundar em `NodeJS` e `Spring`.
   [![LastFM](https://custom-icon-badges.demolab.com/badge/-Lastfm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/Raniery_)
   ![Profile views badge](https://komarev.com/ghpvc/?username=ranieeery&color=blue&style=for-the-badge)
 </div>
-
-<!-- ### ` </> Raniery.exe           🗕 🗗 🗙 `
-
-<div align='left'>
-
-$\textcolor{lightgreen}{\textsf{github@raniery: }}
-\textcolor{white}{\textsf{find -name "README.md"}}$ </br>
-$\textcolor{white}{\textsf{./.github/README.md}}$ </br>
-$\textcolor{lightgreen}{\textsf{github@raniery: }}
-\textcolor{white}{\textsf{cat ./.github/README.md}}$ -->
