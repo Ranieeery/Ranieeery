@@ -1,6 +1,6 @@
 # [Sobre mim](#sobre-mim)
 
-Me chamo Raniery, tenho 20 anos e sou estudante de Ciência da Computação. Também
+Me chamo Raniery, tenho 21 anos e sou estudante de Ciência da Computação. Também
 sou formado em Técnico em Eletroeletrônica pelo CEFET-MG. Atualmente estou atuando
 como estagiário de desenvolvimento na `Empresa1` usando tecnologias como
 `AngularJS`, `Java`, `Hibernate`, `Oracle DB`, etc.
