@@ -17,7 +17,7 @@
 
 - Aprendendo `Java`, `SQL` e `Unity`
 
-- Ciência da Computação: $\textcolor{lightgreen}{\textsf{( 4/8 )}}$
+- Ciência da Computação: $\textcolor{lightgreen}{\textsf{( 5/8 )}}$
 
 - Jogos, livros e anime
 
