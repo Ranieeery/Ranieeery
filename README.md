@@ -4,7 +4,7 @@
 
 My name is Raniery, I'm 21 years old and I'm a Computer Science student. I also
 have a technical degree in Electro-electronics at CEFET-MG. I'm currently working
-as Software Development Intern `Empresa1` using technologies such as
+as Software Development Intern `Empresa1` using technologies like
 `AngularJS`, `Java`, `Hibernate`, `Oracle DB`, etc.
 
 I'm very interested in learning about `Ruby`, `Golang` and `Scala`,
