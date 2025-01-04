@@ -7,7 +7,7 @@ have a technical degree in Electro-electronics at CEFET-MG. I'm currently workin
 as Software Development Intern `Empresa1` using technologies like
 `AngularJS`, `Java`, `Hibernate`, `Oracle DB`, etc.
 
-I'm very interested in learning about `Ruby`, `Golang` and `Scala`,
+I'm very interested in learning about `C/C++`, `Golang` and `Scala`,
 as well as `NodeJS` and `Spring`.
 
 <div align="center">
