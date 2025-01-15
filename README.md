@@ -34,20 +34,25 @@ as well as `NodeJS` and `Spring`.
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/languages/csharp)
+[![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 
 - ### Tools
 
 [![Angular](https://skillicons.dev/icons?i=angular)](https://angular.io/)
 [![AWS](https://skillicons.dev/icons?i=aws)](https://aws.amazon.com/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![Hibernate](https://skillicons.dev/icons?i=hibernate)](https://hibernate.org/)
 [![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+[![NextJS](https://skillicons.dev/icons?i=nextjs)](https://nextjs.org/)
 [![NodeJS](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org/)
 [![Postgres](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 [![Prisma](https://skillicons.dev/icons?i=prisma)](https://www.prisma.io/)
+[![RabbitMQ](https://skillicons.dev/icons?i=rabbitmq)](https://www.rabbitmq.com/)
 [![React](https://skillicons.dev/icons?i=react)](https://react.dev/)
+[![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
@@ -62,7 +67,7 @@ as well as `NodeJS` and `Spring`.
       height="160em"/></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img
-      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
       alt="Github streak"
       height="160em"/></a>
 
