@@ -20,7 +20,7 @@ as well as `NodeJS` and `Spring`.
   <h3> 📫 Contact </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:raniery2003@hotmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ranierygoulart/?locale=en_US)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/ranierygoulart/?locale=en_US)
 
 </div>
 

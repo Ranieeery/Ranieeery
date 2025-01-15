@@ -20,7 +20,7 @@ além de me aprofundar em `NodeJS` e `Spring`.
   <h3> 📫 Contato </h3>
 
   [![E-mail](https://custom-icon-badges.demolab.com/badge/-Email-dc262d?style=for-the-badge&logo=mail&logoColor=white)](mailto:raniery2003@hotmail.com)
-  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ranierygoulart/)
+  [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-app-white-icon)](https://www.linkedin.com/in/ranierygoulart/)
 
 </div>
 
