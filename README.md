@@ -13,7 +13,7 @@ as well as `NodeJS` and `Spring`.
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranieeery&layout=compact&langs_count=8&text_color=ffffff&theme=react&hide_border=true&show_icons"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranieeery&layout=compact&theme=react&hide_border=true&langs_count=10&text_color=ffffff&show_icons"
       alt="Most used languages in my repositories"
       height="200em"/>
   </a>
