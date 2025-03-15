@@ -4,11 +4,11 @@
 
 My name is Raniery, I'm 21 years old and I'm a Computer Science student. I also
 have a technical degree in Electro-electronics at CEFET-MG. I'm currently working
-as Software Development Intern `Empresa1` using technologies like
-`AngularJS`, `Java`, `Hibernate`, `Oracle DB`, etc.
+as Software Developer `Engineering` using technologies like `Java`, `Go`, `RabbitMQ`
+and `Google Cloud Platform`.
 
-I'm very interested in learning about `C/C++`, `Golang` and `Scala`,
-as well as `NodeJS` and `Spring`.
+I'm very interested in learning about `C/C++`, `Zig`, `Scala` and `Kotlin`, as well
+as deepening my knowledge in `Spring` and `RabbitMQ`.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,7 +31,7 @@ as well as `NodeJS` and `Spring`.
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/)
+[![golang](https://skillicons.dev/icons?i=go)](https://www.go.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/languages/csharp)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)

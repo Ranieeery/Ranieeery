@@ -4,11 +4,11 @@
 
 Me chamo Raniery, tenho 21 anos e sou estudante de Ciência da Computação. Também
 sou formado em Técnico em Eletroeletrônica pelo CEFET-MG. Atualmente estou atuando
-como estagiário de desenvolvimento na `Empresa1` usando tecnologias como
-`AngularJS`, `Java`, `Hibernate`, `Oracle DB`, etc.
+como desenvolvedor na `Engineering` usando tecnologias como `Java`, `Go`, `RabbitMQ`
+e `Google Cloud Platform`.
 
-Tenho bastante interesse em aprender profundamente sobre `C/C++`, `Golang` e `Scala`,
-além de me aprofundar em `NodeJS` e `Spring`.
+Tenho bastante interesse em aprender profundamente sobre `C/C++`, `Zig`, `Scala` e `Kotlin`,
+além de me aprofundar em `Spring` e `RabbitMQ`.
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -31,7 +31,7 @@ além de me aprofundar em `NodeJS` e `Spring`.
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
-[![Ruby](https://skillicons.dev/icons?i=ruby)](https://www.ruby-lang.org/)
+[![Golang](https://skillicons.dev/icons?i=go)](https://go.dev/)
 [![Python](https://skillicons.dev/icons?i=py)](https://www.python.org/)
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://dotnet.microsoft.com/languages/csharp)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
@@ -55,7 +55,6 @@ além de me aprofundar em `NodeJS` e `Spring`.
 [![Redis](https://skillicons.dev/icons?i=redis)](https://redis.io/)
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
-[![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
 
 ## 📁 Github Status
 
