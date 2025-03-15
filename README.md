@@ -4,7 +4,7 @@
 
 My name is Raniery, I'm 21 years old and I'm a Computer Science student. I also
 have a technical degree in Electro-electronics at CEFET-MG. I'm currently working
-as Software Developer `Engineering` using technologies like `Java`, `Go`, `RabbitMQ`
+as Software Developer in `Engineering` using technologies like `Java`, `Go`, `RabbitMQ`
 and `Google Cloud Platform`.
 
 I'm very interested in learning about `C/C++`, `Zig`, `Scala` and `Kotlin`, as well
