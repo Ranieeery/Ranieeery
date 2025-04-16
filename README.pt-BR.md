@@ -1,4 +1,4 @@
-# Sobre mim
+# $\textcolor{lightgreen}{\textsf{Sobre mim}}$
 
 [Leia  em inglês](README.md)
 
