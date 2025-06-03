@@ -1,12 +1,12 @@
 # Status
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <!--<a href="https://github.com/anuraghazra/github-readme-stats">-->
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranieeery&layout=compact&theme=react&hide_border=true&langs_count=10&text_color=ffffff&show_icons"
       alt="Most used languages in my repositories"
       height="200em"/>
-  </a>
+  <!--</a>-->
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
