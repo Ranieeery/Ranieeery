@@ -1,4 +1,4 @@
-# $\textcolor{lightgreen}{\textsf{About me}}$
+# About me
 
 [Read this in Portuguese](README.pt-BR.md)
 
