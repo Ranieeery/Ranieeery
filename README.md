@@ -6,7 +6,7 @@ Software Developer | Computer Science Student | Technical Degree in Electro-elec
 
 Currently working with `Java`, `Go`, and `Google Cloud Platform` at `Engineering`.
 
-Interested in learning `C/C++`, `Rust`, `Scala`, and `Kotlin`, and deepening knowledge
+Interested in learning `Rust`, `Scala`, and `Kotlin`, and deepening knowledge
 in `Spring` and `RabbitMQ`.
 
 ## Skills

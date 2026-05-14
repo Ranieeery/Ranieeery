@@ -6,7 +6,7 @@ Desenvolvedor de Software | Estudante de Ciência da Computação | Técnico em 
 
 Atualmente trabalhando com `Java`, `Go`, e `Google Cloud Platform` na `Engineering`.
 
-Interessando em aprender `C/C++`, `Rust`, `Scala`, e `Kotlin`, além de aprofundar
+Interessando em aprender `Rust`, `Scala`, e `Kotlin`, além de aprofundar
 meus coinhecimentos em `Spring` e `RabbitMQ`.
 
 ## Habilidades

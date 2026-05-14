@@ -3,19 +3,19 @@
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranieeery&layout=compact&theme=react&hide_border=true&langs_count=10&text_color=ffffff&show_icons"
+      src="https://github-readme-stats-git-main-raniery.vercel.app/api/top-langs/?username=ranieeery&layout=compact&theme=react&hide_border=true&langs_count=10&text_color=ffffff&show_icons"
       alt="Most used languages in my repositories"
       height="200em"/>
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
-      src="https://github-readme-stats.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
+      src="https://github-readme-stats-git-main-raniery.vercel.app/api?username=ranieeery&show_icons=true&text_color=ffffff&theme=react&count_private=true&hide_border=true"
       alt="Profile statistics"
       height="160em"/></a>
   <a href="https://github.com/denvercoder1/github-readme-streak-stats">
     <img
-      src="https://github-readme-streak-stats-six-ivory.vercel.app/?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
+      src="https://streak-stats.demolab.com?user=Ranieeery&dates=ffffff&theme=react&date_format=j%20M%5B%20Y%5D&ring=ffffff&fire=61dafb&sideNums=ffffff&currStreakNum=ffffff&hide_border=true"
       alt="Github streak"
       height="160em"/>
   </a>
@@ -53,3 +53,16 @@
 [![Spring](https://skillicons.dev/icons?i=spring)](https://spring.io/)
 [![Tailwind](https://skillicons.dev/icons?i=tailwindcss)](https://tailwindcss.com/)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://unity.com/)
+
+<div align='center'>
+  <a href="https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta?si=c7127d3e4d914957">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=21ewv2m2bdpfh7ce64v6x2dta&show_offline=true&cover_image=true&theme=novatorem&bar_color=00d7f6"
+      alt="Current activity on Spotify"
+      height="100em"/>
+  </a>
+
+  [![Spotify](https://custom-icon-badges.demolab.com/badge/-Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/21ewv2m2bdpfh7ce64v6x2dta?si=6f5b8c18e9a34553)
+  [![LastFM](https://custom-icon-badges.demolab.com/badge/-Lastfm-D51007?style=for-the-badge&logo=last.fm&logoColor=white)](https://www.last.fm/pt/user/Raniery_)
+  ![Profile views badge](https://komarev.com/ghpvc/?username=ranieeery&color=blue&style=for-the-badge)
+</div>
