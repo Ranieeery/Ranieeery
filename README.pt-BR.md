@@ -2,7 +2,7 @@
 
 [Leia  em inglês](README.md)
 
-Desenvolvedor de Software | Estudante de Ciência da Computação | Técnico em Eletroeletrônica
+Desenvolvedor de Software | Ciência da Computação | Técnico em Eletroeletrônica
 
 Atualmente trabalhando com `Java`, `Go`, e `Google Cloud Platform` na `Engineering`.
 
@@ -13,13 +13,13 @@ meus conhecimentos em `Spring` e `RabbitMQ`.
 
 ### Linguagens
 
-- Java, Go, JavaScript, TypeScript, Python, C#, Bash
+- Java, JavaScript, TypeScript, Go, Python, Bash
 
 ### Ferramentas
 
 - **Frontend:** Angular, React, Next.js, TailwindCSS
 - **Backend:** Spring, Node.js, Hibernate, Prisma, .NET
-- **Bando de Dados:** MySQL, PostgreSQL, Oracle, MongoDB, SQLite, Redis
+- **Bando de Dados:** PostgreSQL, MySQL, Oracle, MongoDB, SQLite, Redis
 - **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Docker, Git, Kubernetes
 - **Mensageria:** RabbitMQ, Apache Kafka
 - **Outros:** Linux, Figma, Unity

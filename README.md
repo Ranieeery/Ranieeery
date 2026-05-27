@@ -2,7 +2,7 @@
 
 [Read this in Portuguese](README.pt-BR.md)
 
-Software Developer | Computer Science Student | Technical Degree in Electro-electronics
+Software Developer | Computer Science | Technical Degree in Electro-electronics
 
 Currently working with `Java`, `Go`, and `Google Cloud Platform` at `Engineering`.
 
@@ -13,13 +13,13 @@ in `Spring` and `RabbitMQ`.
 
 ### Languages
 
-- Java, Go, JavaScript, TypeScript, Python, C#, Bash
+- Java, JavaScript, TypeScript, Go, Python, Bash
 
 ### Tools
 
 - **Frontend:** Angular, React, Next.js, TailwindCSS
 - **Backend:** Spring, Node.js, Hibernate, Prisma, .NET
-- **Databases:** MySQL, PostgreSQL, Oracle, MongoDB, SQLite, Redis
+- **Databases:** PostgreSQL, MySQL, Oracle, MongoDB, SQLite, Redis
 - **Cloud & DevOps:** AWS, Google Cloud Platform (GCP), Docker, Git, Kubernetes
 - **Messaging:** RabbitMQ, Apache Kafka
 - **Others:** Linux, Figma, Unity
